@@ -1,6 +1,6 @@
 - 👋Hi, my name is Stelios Trimis and I'm 21 years. I am leaving in Greece .
 
-- 👀I'm college student at the University of Ioannina, in the IT and Telecommunications sector, and im following Software Engineering. I really like Web Development the most.
+- 👀I'm college student at the University of Ioannina, in the IT and Telecommunications sector, and im following Software Engineering. 
 
 - 🙌All my life want to be a programmer, because in the future I will really like meeting new people from all over the world and we will exchange different views about ours job
       and programming things.
