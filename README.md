@@ -9,6 +9,6 @@
 
 - 🤓Languages i use for Backend is : C , C++ , Java and for Frontend : Html , CSS , Javascript.
 
-- 🧐Languages and things i want to learn in the future is : Python , PhP , Sql , Html.
+- 🧐Languages and things i want to learn in the future is : Python , PhP , Sql 
 
 - 😉Contact Me : stltrimis@gmail.com (Please tell me that you are from the github 😊).
