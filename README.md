@@ -1,4 +1,4 @@
-- 👋Hi, my name is Stelios Trimis and I'm 21 years. I am leaving in Greece .
+- 👋Hi, my name is Stelios Trimis and I'm 22 years. I am leaving in Greece .
 
 - 👀I'm college student at the University of Ioannina, in the IT and Telecommunications sector, and im following Software Engineering. 
 
